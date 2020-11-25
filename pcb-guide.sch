@@ -361,4 +361,8 @@ Wire Wire Line
 Connection ~ 2250 1400
 Wire Wire Line
 	2250 1400 2350 1400
+Text GLabel 1550 2400 0    50   Input ~ 0
+D+
+Text GLabel 1550 2500 0    50   Input ~ 0
+D-
 $EndSCHEMATC
