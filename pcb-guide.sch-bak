@@ -1,0 +1,18 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Notes -7200 2500 0    118  ~ 0
+m: pick the component up and move it\ng: drag the component up and move it while keeping wires attached to it\nc: copy the component\ne: edit the component\nr: rotate the component\ny: mirror the component\ndel: delete the component\nesc: abort!\n\nw - Begin drawing a wire connection\nk - Cut a wire and stop drawing it without clicking on an endpoint\nCtrl + h - Place a global net
+$EndSCHEMATC
